@@ -42,7 +42,7 @@ public class MainActivity extends BaseActivity {
                         .subscribe(new RxSubscriber<UserInfoBean>(mContext,false) {
                             @Override
                             protected void _onNext(UserInfoBean userInfoBean) {
-
+//DDDD
                             }
 
                             @Override
