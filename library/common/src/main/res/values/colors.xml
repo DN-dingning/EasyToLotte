@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#55637c</color>
+    <color name="colorPrimaryDark">#55637c</color>
+    <color name="colorAccent">#55637c</color>
+    <!--白天主题-->
+    <color name="day_backgroup_color">#FFFFFFFF</color>
+    <color name="day_one_text_color">#FF000000</color>
+    <color name="day_two_text_color">#c9000000</color>
+    <color name="day_three_text_color">#8A9599</color>
+    <!--夜间主题-->
+    <color name="night_backgroup_color">#3F3F3F</color>
+    <color name="night_one_text_color">#FFbbbbbb</color>
+    <color name="night_two_text_color">#8A9599</color>
+    <color name="night_there_text_color">#8A9599</color>
+    <!-- app主色调-->
+    <color name="main_color">#55637c</color>
+    <color name="orange">#FA8C20</color>
+    <color name="my_publish_color">#8869655E</color>
+    <color name="wheel_divider_line_color">#FF000000</color>
+    <color name="wheel_item_text_color_selected">#FF0288ce</color>
+    <color name="wheel_item_text_color_no_select">#FFbbbbbb</color>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="red">#FFFF0000</color>
+    <color name="green">#FF00FF00</color>
+    <color name="white_alpha_half">#99FFFFFF</color>
+    <color name="gray">#FFF0F0F0</color>
+    <color name="gray_deep">#c9000000</color>
+    <color name="transparent">#00000000</color>
+    <color name="role_right_gray">#929292</color>
+    <color name="role_yellow_gray">#33CC99</color>
+    <color name="tv_right_gray">#929292</color>
+    <color name="bg_white_gray">#f2f2f2</color>
+    <color name="tv_talk_content">#FFB3B3B3</color>
+    <color name="line_recent_contact">#FFEEEEEE</color>
+    <color name="light_gray">#808080</color>
+    <color name="light_white">#33ffffff</color>
+    <color name="chat_tip_color">#FFcccccc</color>
+    <color name="blue">#5CA3E5</color>
+    <color name="main_blue">#3598db</color>
+    <color name="blue_check">#3493d4</color>
+    <color name="toast_white">#ffffff</color>
+    <color name="toast_stroke_gray">#99d4d4d4</color>
+
+
+    <color name="alpha_05_white">#0DFFFFFF</color>
+    <color name="alpha_10_white">#1AFFFFFF</color>
+    <color name="alpha_15_white">#26FFFFFF</color>
+    <color name="alpha_20_white">#33FFFFFF</color>
+    <color name="alpha_25_white">#40FFFFFF</color>
+    <color name="alpha_30_white">#4DFFFFFF</color>
+    <color name="alpha_35_white">#59FFFFFF</color>
+    <color name="alpha_40_white">#66FFFFFF</color>
+    <color name="alpha_45_white">#73FFFFFF</color>
+    <color name="alpha_50_white">#80FFFFFF</color>
+    <color name="alpha_55_white">#8CFFFFFF</color>
+    <color name="alpha_60_white">#99FFFFFF</color>
+    <color name="alpha_65_white">#A6FFFFFF</color>
+    <color name="alpha_70_white">#B3FFFFFF</color>
+    <color name="alpha_75_white">#BFFFFFFF</color>
+    <color name="alpha_80_white">#CCFFFFFF</color>
+    <color name="alpha_85_white">#D9FFFFFF</color>
+    <color name="alpha_90_white">#E6FFFFFF</color>
+    <color name="alpha_95_white">#F2FFFFFF</color>
+
+    <color name="alpha_05_black">#0D000000</color>
+    <color name="alpha_10_black">#1A000000</color>
+    <color name="alpha_15_black">#26000000</color>
+    <color name="alpha_20_black">#33000000</color>
+    <color name="alpha_25_black">#40000000</color>
+    <color name="alpha_30_black">#4D000000</color>
+    <color name="alpha_35_black">#59000000</color>
+    <color name="alpha_40_black">#66000000</color>
+    <color name="alpha_45_black">#73000000</color>
+    <color name="alpha_50_black">#80000000</color>
+    <color name="alpha_55_black">#8C000000</color>
+    <color name="alpha_60_black">#99000000</color>
+    <color name="alpha_65_black">#A6000000</color>
+    <color name="alpha_70_black">#B3000000</color>
+    <color name="alpha_75_black">#BF000000</color>
+    <color name="alpha_80_black">#CC000000</color>
+    <color name="alpha_85_black">#D9000000</color>
+    <color name="alpha_90_black">#E6000000</color>
+    <color name="alpha_95_black">#F2000000</color>
+    <color name="F1">#4c4c4c</color>
+    <color name="line_rigister">#525351</color>
+    <!-- 辅助文字，提示，次重点 -->
+    <color name="F2">#7d7d7d</color>
+    <!-- 弱提示，未激活等 -->
+    <color name="F3">#9a9a9a</color>
+    <color name="F4">#cccccc</color>
+    <color name="F5">#55cccccc</color>
+    <!-- 特殊醒目，价格，工资等-->
+    <color name="T1">#f8931e</color>
+    <!-- 辅助醒目色-->
+    <color name="T2">#48a7e7</color>
+    <!-- 辅助醒目色2-->
+    <color name="T3">#55637c</color>
+    <!-- 辅助醒目色3-->
+    <color name="T4">#a71e32</color>
+    <!-- 间隔线颜色-->
+    <color name="Line">#E5E5E5</color>
+    <color name="light_grey">#D7D7D7</color>
+    <color name="space_solid">#F4F4F4</color>
+    <color name="space_stroke">#e8e8e8</color>
+    <!-- 多选按键未选中及分隔条 -->
+    <color name="light_brown">#eee8e2</color>
+    <!-- 背景色灰色 -->
+    <color name="gray_bg">#f4f4f4</color>
+    <color name="user_center_bottom_text">#9ca9c0</color>
+    <color name="rippelColor">#FFFFFF</color>
+    <color name="login_title_color">#6A6A64</color>
+    <color name="gradient_blue_start">#31AAF6</color>
+    <color name="gradient_blue_end">#007CD8</color>
+    <color name="bg_blue_color">#F2FAFF</color>
+    <color name="text_six_three">#333333</color>  <!-- 字体颜色1 -->
+    <color name="text_six_seven">#777777</color>
+    <color name="dialog_content_color">#737373</color><!--弹出框颜色-->
+    <color name="dialog_warn_color">#e64340</color><!--弹出框警告色-->
+    <color name="dialog_normal_color">#4c4c4c</color><!--弹出框普通色-->
+    <color name="text_gray_normal">#585858</color> <!-- 灰色字体 -->
+    <!-- 可输入对话框 边框灰色   -->
+    <color name="gray_boder">#949494</color>
+    <color name="login_button_color">#cc73AECC</color>
+
+</resources>
